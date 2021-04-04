@@ -1,6 +1,6 @@
 package lazyclass;
 
-public class Address {
+public abstract class Address {
 
     private final String house;
     private final String street;
